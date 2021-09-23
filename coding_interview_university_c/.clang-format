@@ -1,0 +1,8 @@
+---
+BasedOnStyle: Google
+ColumnLimit: 80
+# UseTab: ForIndentation
+UseTab: ForIndentation
+IndentWidth: 4
+TabWidth: 4
+AccessModifierOffset: -4

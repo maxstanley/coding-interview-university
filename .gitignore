@@ -16,3 +16,10 @@ personal-9894.md
 ehthumbs.db
 Thumbs.db
 
+# C/C++
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+tests
+ci
